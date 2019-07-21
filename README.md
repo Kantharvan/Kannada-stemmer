@@ -1,2 +1,2 @@
 # Kannada-stemmer
-A stem/root word finder for a Kannada word
+a NLP project onto finding a root/stem word for a given word (KANNADA)
